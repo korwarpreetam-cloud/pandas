@@ -1,0 +1,233 @@
+[
+  {
+    "Year": 2018,
+    "City": "Delhi",
+    "Food": 95,
+    "Fuel": 78,
+    "Rent": 10000,
+    "Transport": 1800,
+    "Utilities": 2300,
+    "Entertainment": 1400,
+    "Total_Cost": 15673
+  },
+  {
+    "Year": 2019,
+    "City": "Delhi",
+    "Food": 100,
+    "Fuel": 80,
+    "Rent": 10500,
+    "Transport": 1900,
+    "Utilities": 2400,
+    "Entertainment": 1500,
+    "Total_Cost": 16480
+  },
+  {
+    "Year": 2020,
+    "City": "Delhi",
+    "Food": 105,
+    "Fuel": 79,
+    "Rent": 11000,
+    "Transport": 1800,
+    "Utilities": 2500,
+    "Entertainment": 1600,
+    "Total_Cost": 17084
+  },
+  {
+    "Year": 2021,
+    "City": "Delhi",
+    "Food": 115,
+    "Fuel": 88,
+    "Rent": 12000,
+    "Transport": 2000,
+    "Utilities": 2600,
+    "Entertainment": 1700,
+    "Total_Cost": 18503
+  },
+  {
+    "Year": 2022,
+    "City": "Delhi",
+    "Food": 125,
+    "Fuel": 98,
+    "Rent": 13000,
+    "Transport": 2200,
+    "Utilities": 2800,
+    "Entertainment": 1900,
+    "Total_Cost": 20123
+  },
+  {
+    "Year": 2023,
+    "City": "Delhi",
+    "Food": 140,
+    "Fuel": 115,
+    "Rent": 14500,
+    "Transport": 2600,
+    "Utilities": 3200,
+    "Entertainment": 2200,
+    "Total_Cost": 22755
+  },
+  {
+    "Year": 2024,
+    "City": "Delhi",
+    "Food": 155,
+    "Fuel": 118,
+    "Rent": 16000,
+    "Transport": 2900,
+    "Utilities": 3400,
+    "Entertainment": 2400,
+    "Total_Cost": 24973
+  },
+  {
+    "Year": 2018,
+    "City": "Mumbai",
+    "Food": 100,
+    "Fuel": 80,
+    "Rent": 12000,
+    "Transport": 2000,
+    "Utilities": 2500,
+    "Entertainment": 1500,
+    "Total_Cost": 18180
+  },
+  {
+    "Year": 2019,
+    "City": "Mumbai",
+    "Food": 105,
+    "Fuel": 82,
+    "Rent": 12500,
+    "Transport": 2100,
+    "Utilities": 2600,
+    "Entertainment": 1600,
+    "Total_Cost": 18987
+  },
+  {
+    "Year": 2020,
+    "City": "Mumbai",
+    "Food": 110,
+    "Fuel": 78,
+    "Rent": 13000,
+    "Transport": 1900,
+    "Utilities": 2700,
+    "Entertainment": 1700,
+    "Total_Cost": 19488
+  },
+  {
+    "Year": 2021,
+    "City": "Mumbai",
+    "Food": 120,
+    "Fuel": 90,
+    "Rent": 13500,
+    "Transport": 2200,
+    "Utilities": 2800,
+    "Entertainment": 1800,
+    "Total_Cost": 20510
+  },
+  {
+    "Year": 2022,
+    "City": "Mumbai",
+    "Food": 135,
+    "Fuel": 100,
+    "Rent": 14500,
+    "Transport": 2400,
+    "Utilities": 3000,
+    "Entertainment": 2000,
+    "Total_Cost": 22135
+  },
+  {
+    "Year": 2023,
+    "City": "Mumbai",
+    "Food": 150,
+    "Fuel": 115,
+    "Rent": 16500,
+    "Transport": 2900,
+    "Utilities": 3400,
+    "Entertainment": 2400,
+    "Total_Cost": 25465
+  },
+  {
+    "Year": 2024,
+    "City": "Mumbai",
+    "Food": 165,
+    "Fuel": 120,
+    "Rent": 18000,
+    "Transport": 3200,
+    "Utilities": 3600,
+    "Entertainment": 2600,
+    "Total_Cost": 27685
+  },
+  {
+    "Year": 2018,
+    "City": "Pune",
+    "Food": 90,
+    "Fuel": 75,
+    "Rent": 8000,
+    "Transport": 1500,
+    "Utilities": 2000,
+    "Entertainment": 1200,
+    "Total_Cost": 12865
+  },
+  {
+    "Year": 2019,
+    "City": "Pune",
+    "Food": 95,
+    "Fuel": 78,
+    "Rent": 8200,
+    "Transport": 1550,
+    "Utilities": 2100,
+    "Entertainment": 1300,
+    "Total_Cost": 13323
+  },
+  {
+    "Year": 2020,
+    "City": "Pune",
+    "Food": 100,
+    "Fuel": 76,
+    "Rent": 8500,
+    "Transport": 1500,
+    "Utilities": 2200,
+    "Entertainment": 1400,
+    "Total_Cost": 13776
+  },
+  {
+    "Year": 2021,
+    "City": "Pune",
+    "Food": 110,
+    "Fuel": 85,
+    "Rent": 9000,
+    "Transport": 1700,
+    "Utilities": 2300,
+    "Entertainment": 1500,
+    "Total_Cost": 14695
+  },
+  {
+    "Year": 2022,
+    "City": "Pune",
+    "Food": 120,
+    "Fuel": 95,
+    "Rent": 10000,
+    "Transport": 1900,
+    "Utilities": 2500,
+    "Entertainment": 1700,
+    "Total_Cost": 16315
+  },
+  {
+    "Year": 2023,
+    "City": "Pune",
+    "Food": 130,
+    "Fuel": 112,
+    "Rent": 11500,
+    "Transport": 2100,
+    "Utilities": 2600,
+    "Entertainment": 1900,
+    "Total_Cost": 18342
+  },
+  {
+    "Year": 2024,
+    "City": "Pune",
+    "Food": 145,
+    "Fuel": 118,
+    "Rent": 13000,
+    "Transport": 2300,
+    "Utilities": 2800,
+    "Entertainment": 2100,
+    "Total_Cost": 20463
+  }
+]

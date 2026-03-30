@@ -1,0 +1,23 @@
+[
+  {
+    "City": "Delhi",
+    "Start_Year": 2018,
+    "End_Year": 2024,
+    "Start_Total": 15673,
+    "End_Total": 24973
+  },
+  {
+    "City": "Mumbai",
+    "Start_Year": 2018,
+    "End_Year": 2024,
+    "Start_Total": 18180,
+    "End_Total": 27685
+  },
+  {
+    "City": "Pune",
+    "Start_Year": 2018,
+    "End_Year": 2024,
+    "Start_Total": 12865,
+    "End_Total": 20463
+  }
+]

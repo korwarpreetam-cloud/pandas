@@ -1,0 +1,29 @@
+[
+  {
+    "City": "Delhi",
+    "Food": 63.16,
+    "Fuel": 51.28,
+    "Rent": 60.0,
+    "Transport": 61.11,
+    "Utilities": 47.83,
+    "Entertainment": 71.43
+  },
+  {
+    "City": "Mumbai",
+    "Food": 65.0,
+    "Fuel": 50.0,
+    "Rent": 50.0,
+    "Transport": 60.0,
+    "Utilities": 44.0,
+    "Entertainment": 73.33
+  },
+  {
+    "City": "Pune",
+    "Food": 61.11,
+    "Fuel": 57.33,
+    "Rent": 62.5,
+    "Transport": 53.33,
+    "Utilities": 40.0,
+    "Entertainment": 75.0
+  }
+]
